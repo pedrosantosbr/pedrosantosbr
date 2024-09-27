@@ -5,7 +5,7 @@
 - 💡 I’m proficient in **Python**, **Go**, and **JavaScript**.
 - 💼 I’m available for **freelance projects** or full-time roles.
 - 🌱 I’m continuously learning and exploring new technologies.
-- 💬 Feel free to reach out via email at [your.email@example.com](mailto:your.email@example.com).
+- 💬 Feel free to reach out via email at [pedro357bm@gmail.com](mailto:pedro357bm@gmail.com).
 - 🚀 I love contributing to **open-source projects**, and always keen to work on impactful projects.
 
 ### Connect with me:
